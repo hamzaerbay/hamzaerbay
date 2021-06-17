@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hamzaerbay&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hamzaerbay&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
 <!--
 **hamzaerbay/hamzaerbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
