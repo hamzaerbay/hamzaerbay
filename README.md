@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work [@Udemy](https://www.udemy.com) as a Sr Software Engineer.
+<!-- I work [@Udemy](https://www.udemy.com) as a Sr Software Engineer. -->
 
 
 
